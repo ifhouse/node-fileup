@@ -1,0 +1,27 @@
+{
+  "name": "ifhouse",
+  "version": "1.0.0",
+  "description": "code from \r http://www.nodebeginner.org/index-kr.html",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ifhouse/node-fileup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifhouse/node-fileup/issues"
+  },
+  "dependencies": {
+      "formidable": "*"
+  },
+  "homepage": "https://github.com/ifhouse/node-fileup"
+}
